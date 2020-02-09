@@ -3,6 +3,6 @@
     <nav class="navbar">
         <a class="nav-item" href="#">Projects</a>
         <a class="nav-item" href="#">Contact</a>
-        <a class="nav-item" href="#">#3</a>
+        <a class="nav-item" href="#">Blog</a>
   </nav>
 </header>

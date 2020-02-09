@@ -3,6 +3,9 @@
 <head>
     <link rel="stylesheet" href="css/theme.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/beon" type="text/css"/> 
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/constantine" type="text/css"/>
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/funtauna" type="text/css"/> 
     <script src="js/prefixfree.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Forero</title>
@@ -16,8 +19,9 @@
         <article class="presentation">
             <h2>Who am I?</h2>
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cctK-33O2R-nWgqGHFiFSAHaLH%26pid%3DApi&f=1" alt="" srcset="">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam maximus aliquet nunc, et euismod felis tristique sit amet. In id mauris est. Aliquam eu nisl accumsan, hendrerit lorem sed, eleifend magna. Donec vel facilisis augue. Maecenas convallis magna at leo gravida, vitae aliquet purus scelerisque. Proin ut ante vestibulum, maximus nulla et, tincidunt felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas rutrum sem velit, nec rhoncus ligula volutpat sed.</p>
-            <p>Sed posuere enim nec urna aliquam hendrerit. Nam quam massa, gravida sit amet feugiat eleifend, imperdiet vel velit. Proin quis tellus non odio placerat consequat. Morbi euismod tincidunt enim ac vulputate. Maecenas blandit, nibh et laoreet accumsan, massa justo ullamcorper est, at vestibulum quam nulla auctor nibh. Phasellus lacinia vestibulum justo eu laoreet. Duis volutpat semper neque, in vehicula neque vestibulum sit amet. In sit amet aliquet elit. In non porta ex, id varius urna. Sed imperdiet sem quis enim vestibulum molestie. Nullam et pretium felis, non porttitor sapien. Duis id sapien interdum, dapibus purus ac, convallis justo. Praesent vel tellus at nisi tempus dapibus.</p>
+            <p>My name is Santiago Esteban Forero Suárez, I am from Colombia, since I was 10 years old, my passion has always been technology and languages.</p>
+            <p>Since I was 7 years old I joined a 7 year-long english course, after a lot of effort it worked!, in 2019 I graduated from it, thanks to that now I consider myself bilingual (I speak english and spanish), however it wasn't enough for me, so I decided to start learning German.</p>
+            <p>When I was 11 years old, I started exploring the world of technology, firstly I learned the basic tags of html, I noticed it wasn't enough for making something cool, so I learned CSS and Javascript, then I started learning Python and C++, in consecuence I started developing web servers and found Linux, I changed my computer's operative system because it was better for me. After that I discovered data sciene and artificial intelligence, something that is really interesting and useful.</p>
         </article>
     </section>
 

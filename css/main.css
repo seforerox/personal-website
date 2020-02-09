@@ -1,5 +1,5 @@
 .presentation {
-    padding: 5%;
+    padding: 0 5%;
 }
 
 .presentation img {
@@ -15,7 +15,7 @@
 @media screen and (max-width: 800px) {
     .presentation img {
         float: none;
-        width: 80%;
+        width: 60%;
         display: block;
         margin-left: auto;
         margin-right: auto;
